@@ -3,6 +3,13 @@ TradingView Chat? Here's How to Get Connect with TradingView Live Chat for Saved
 
 If you are trying to get quick help from support or other traders, then using **tradingview live chat** becomes an important feature for real-time communication and assistance. Many users search for **tradingview live chat** when they want to solve issues related to saved charts, missing layouts, or login problems. At the same time, **tradingview live chat** is also used by traders who want to discuss strategies, indicators, and market setups with the community. This makes **tradingview live chat** a powerful tool for both support and trading interaction.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://tradingviewdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TradingView</a>
+   </div>
+   
+
 TradingView is widely used for chart analysis, technical indicators, and real-time market tracking. However, beyond charts and tools, its communication features help users stay connected, share ideas, and resolve technical issues quickly.
 
 What Is TradingView Live Chat?
